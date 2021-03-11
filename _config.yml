@@ -3,7 +3,7 @@ title: hyungil's web (on working)
 description: >
   Hyungil's web portfolio for data science and programming
   
-baseurl: "github.com/hyungilk" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "hyungilk.github.io" # the base hostname & protocol for your site
 
 
