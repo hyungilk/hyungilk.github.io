@@ -3,8 +3,8 @@ title: hyungil's web (on working)
 description: >
   Hyungil's web portfolio for data science and programming
   
-baseurl: "/hyungil_ed_kim" # the subpath of your site, e.g. /blog/
-url: "https://knhash.github.io" # the base hostname & protocol for your site
+baseurl: "/hyungil_ed_kim.com" # the subpath of your site, e.g. /blog/
+url: "https://hyungilk.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Hyungil Ed Kim
