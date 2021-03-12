@@ -8,12 +8,16 @@ subtitle: Data Driven Innovation on Engineering
 <br>
 
 ### Experience
-#### Samsung Electronics
 <br>
+#### Samsung Electronics
 **Business Analyst** - Data Intelligence Team, Samsung Biz Innovation Center <span style="float: right; ">May. '19 ~ Current</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique. 
 
 **Engineering Researcher** - Advanced Mechanical R&D Team, Samsung Mobile <span style="float: right; ">Mar. '16 ~ Apr. '19</span>  
+Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique. 
+<br>
+#### Seoul National University
+**Researcher** - Innovative Design and Integrated Manufacturing(IDIM) Lab. <span style="float: right; ">Mar. '14 ~ Feb. '16</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique. 
 
 ### SKILLS
