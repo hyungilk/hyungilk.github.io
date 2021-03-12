@@ -13,7 +13,6 @@ subtitle: Data Driven Innovation on Engineering
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique. 
 **Engineering Researcher** - Advanced Mechanical R&D Team, Samsung Mobile <span style="float: right; ">Mar. '16 ~ Apr. '19</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique. 
-
 #### Seoul National University
 **Researcher** - Innovative Design and Integrated Manufacturing(IDIM) Lab. <span style="float: right; ">Mar. '14 ~ Feb. '16</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique. 
