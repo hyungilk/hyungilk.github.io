@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-subtitle: An awesome person
+subtitle: Data Driven Innovation on Engineering 
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
@@ -10,10 +10,10 @@ subtitle: An awesome person
 ### Experience
 #### Samsung Electronics
 <br>
-**Business Analyst** - Data Intelligence Team, Samsung Biz Innovation Center <span style="float: right; ">May. `19 ~ Current</span>  
+**Business Analyst** - Data Intelligence Team, Samsung Biz Innovation Center <span style="float: right; ">May. '19 ~ Current</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique. 
 
-**Engineering Researcher** - Advanced Mechanical R&D Team, Samsung Mobile <span style="float: right; ">Mar. `16 ~ Apr. `19</span>  
+**Engineering Researcher** - Advanced Mechanical R&D Team, Samsung Mobile <span style="float: right; ">Mar. '16 ~ Apr. '19</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique. 
 
 ### SKILLS
